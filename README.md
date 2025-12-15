@@ -1,16 +1,37 @@
-## Hi there 👋
+# Akshay Kota
 
-<!--
-**akshay-kota/akshay-kota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Backend Developer specializing in Spring Boot, REST APIs, and Microservices.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Professional Summary
+Java Developer with hands-on experience in building scalable backend systems
+using Spring Boot, Hibernate, and MySQL. Interested in system design,
+distributed systems, and microservices architecture.
+
+---
+
+## Technical Skills
+
+### Backend
+- Java
+- Spring Boot
+- REST APIs
+- Microservices
+
+### Databases
+- MySQL
+- SQL
+
+### Tools & Platforms
+- Git, GitHub
+- Docker
+- Jenkins
+- AWS (Basics)
+- Postman
+
+---
+
+## Contact
+- LinkedIn: <your-link>
+- Email: <your-email>
